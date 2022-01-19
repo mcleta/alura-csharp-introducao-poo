@@ -1,0 +1,7 @@
+C:\Dev\Alura\C#\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.exe.config
+C:\Dev\Alura\C#\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.exe
+C:\Dev\Alura\C#\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.pdb
+C:\Dev\Alura\C#\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Alura\C#\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.csproj.CoreCompileInputs.cache
+C:\Dev\Alura\C#\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.exe
+C:\Dev\Alura\C#\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.pdb
